@@ -9,7 +9,6 @@
 
 
 * Thème global du portfolio :  coucher de soleil (miami)   
-  <a href="https://zupimages.net/viewer.php?id=20/28/e90r.jpg"><img src="https://zupimages.net/up/20/28/e90r.jpg" alt="" /></a>
-* LOGO
+*  LOGO 
 
-<a href="https://zupimages.net/viewer.php?id=20/28/oxr6.jpg"><img src="https://zupimages.net/up/20/28/oxr6.jpg" alt="" /></a>
+<a href="https://zupimages.net/viewer.php?id=20/28/i5f1.png"><img src="https://zupimages.net/up/20/28/i5f1.png" alt="" /></a>
